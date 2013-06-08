@@ -1,4 +1,8 @@
-package com.me.busysms;
+package com.me.busysms.activity;
+
+import com.me.busysms.R;
+import com.me.busysms.R.layout;
+import com.me.busysms.R.menu;
 
 import android.os.Bundle;
 import android.app.Activity;
